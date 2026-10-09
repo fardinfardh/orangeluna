@@ -1,7 +1,7 @@
 # orangeluna.com
 
 One-page website for **Orange Luna L.L.C-FZ**, a Dubai-based creative studio
-(photography, design & artwork, web design, e-commerce) and home of Beyond Frame workshops.
+(photography, design & artwork, web design, e-commerce) and home of Rozan workshops.
 
 Static site. No build step. Deployed on Cloudflare Pages.
 
